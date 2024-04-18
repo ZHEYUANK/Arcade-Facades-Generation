@@ -1,0 +1,1 @@
+arcade facade, bare_tree, bridge, bush, car, castle, chain-link_fence, city_lights, cityscape, cloud, day, east_asian_architecture, gate, house, lamppost, no_humans, palm_tree, park, pavement, plant, potted_plant, real_world_location, road, scenery, sidewalk, sky, skyline, skyscraper, street, tokyo_\(city\), tower, tree, decorative parapet, undulating parapet, convex balcony

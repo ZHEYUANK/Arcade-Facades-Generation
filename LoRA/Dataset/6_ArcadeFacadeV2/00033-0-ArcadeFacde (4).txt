@@ -1,0 +1,1 @@
+arcade facade, 1other, car, day, ground_vehicle, motor_vehicle, real_world_location, scenery, sky, skyscraper, tokyo_\(city\), tree, truck, convex balcony, concave balcony, undulating parapet

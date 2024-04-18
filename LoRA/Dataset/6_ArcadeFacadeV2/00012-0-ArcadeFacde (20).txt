@@ -1,0 +1,1 @@
+arcade facade, analog_clock, car, clock, clock_tower, cross-section, day, door, ground_vehicle, motor_vehicle, no_humans, road, road_sign, scenery, sign, storefront, street, train, truck, vehicle_focus, vending_machine, arch
