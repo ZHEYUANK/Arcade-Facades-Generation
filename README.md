@@ -8,23 +8,6 @@ In urban renewal, it's essential to preserve the architectural style of historic
 
 # Install
 
-1. Clone this repository and navigate to Quantitative_Evaluation folder
+Clone this repository
 ```bash
 git clone https://github.com/ZHEYUANK/Arcade-Facades-Generation.git
-
-cd Quantitative_Evaluation
-```
-
-2. Install Package
- ```bash
- # Create a new conda environment
- conda create -n pytorch python=3.8
- 
- # Activate the newly created environment
- conda activate pytorch
- 
- # Install PyTorch, torchvision, torchaudio, and CUDA toolkit
- conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 cudatoolkit=11.2 -c pytorch
- 
- # Install additional packages
- pip install -r requirements.txt
